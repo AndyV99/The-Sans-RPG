@@ -1,0 +1,9 @@
+general todo
+-redo char creation tkinter shit u dumb fuck
+-food recovers AP
+
+if time:
+-bank : (stores 20 items)
+-fix shop placing algorithm
+-redo speed algorithm
+-redo AP algorithm
